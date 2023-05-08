@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/ajoutArticle.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/backOffice/modifyArticle.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/backOffice" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/frontOffice/home.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/frontOffice" />
+      </map>
+    </option>
+  </component>
+</project>
